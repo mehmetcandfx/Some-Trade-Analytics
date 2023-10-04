@@ -19,7 +19,7 @@
   <p align="center">
   Final case study for the position of 'Trading Operations Analyst' in a market maker company in Amsterdam. The notebook is the edited version in light of the feedback received after the case study from the quants and traders.
     <br />
-    <a href=["https://github.com/m/tree/main/Documents](https://github.com/mehmetcandfx/Some-Trade-Analytics/tree/main/Documents)"  target="_blank"><strong>Explore the Case »</strong></a>
+    <a href=["https://github.com/m/tree/main/Documents)"  target="_blank"><strong>Explore the Case »</strong></a>
   </p>
 </div>
 
